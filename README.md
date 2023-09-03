@@ -38,5 +38,8 @@ Welcome to my Github Profile<br>
 [![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pl-pl/dotnet/csharp/)
 [![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://devdocs.io/cpp/)
 [![sq](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![git](https://img.shields.io/badge/GIT%20-gray?logo=git)](https://git-scm.com)
+[![github](https://img.shields.io/badge/GitHub%20-black?logo=github)](https://github.com)
+
 
 

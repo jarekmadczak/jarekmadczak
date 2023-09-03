@@ -1,6 +1,6 @@
 ### HI There 👋<br>
 Welcome to my Github Profile<br>
-I am Mikołaj Radzikowski and right now im student at Uniwersytet Rzeszowski
+I am Mikołaj Radzikowski right now im student at Uniwersytet Rzeszowski
 with ambition to become programmer 💻 <br>
  [![Linkedin Badge](https://img.shields.io/badge/UR-blue)](https://www.ur.edu.pl/pl/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikołaj-radzikk-461841244/)

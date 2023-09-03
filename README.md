@@ -9,11 +9,12 @@ with ambition to become programmer 💻 <br>
  &nbsp;
 <br>
 <br>
-<br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarekmadczak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
+<br>
+<br>
 <br>
 <br>
 ### Languages and Tools:

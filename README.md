@@ -4,7 +4,7 @@ I am Mikołaj Radzikowski and right now im student at Uniwersytet Rzeszowski
 with ambition to become programmer 💻 <br>
  [![Linkedin Badge](https://img.shields.io/badge/UR-blue)](https://www.ur.edu.pl/pl/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikołaj-radzikk-461841244/)
-
+<br>
 <img align="right" alt="GIF" src="https://cutewallpaper.org/26/bedroom-pixel-art-wallpaper/artstation-pixel-art-study-2-igor-flores.gif" width="408" height="318" />
  &nbsp;
 <br>
@@ -13,6 +13,7 @@ with ambition to become programmer 💻 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarekmadczak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
+<br>
 <br>
 <br>
 <br>

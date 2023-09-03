@@ -5,8 +5,9 @@ with ambition to become programmer 💻 <br>
  [![Linkedin Badge](https://img.shields.io/badge/UR-blue)](https://www.ur.edu.pl/pl/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikołaj-radzikk-461841244/)
 <br>
-  &nbsp;
-![coding-animated-laptop-flow-stream-ja04010rm5o68zfk](https://github.com/jarekmadczak/jarekmadczak/assets/82841077/ef1afa3a-2469-4079-9ac9-c0c441359ef2)
+ &nbsp;
+ <div dir="rtl">![coding-animated-laptop-flow-stream-ja04010rm5o68zfk](https://github.com/jarekmadczak/jarekmadczak/assets/82841077/ef1afa3a-2469-4079-9ac9-c0c441359ef2)</div>
+
 &nbsp;
 ### Languages and Tools:
 [![Javascript badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)

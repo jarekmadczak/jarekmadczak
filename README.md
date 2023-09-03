@@ -20,8 +20,6 @@ Welcome to my Github Profile<br>
 <br>
 
 
- [![Linkedin Badge](https://img.shields.io/badge/UR-blue)](https://www.ur.edu.pl/pl/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikołaj-radzikk-461841244/)
 <br>
 <br>
 <img align="right" alt="GIF" src="https://cutewallpaper.org/26/bedroom-pixel-art-wallpaper/artstation-pixel-art-study-2-igor-flores.gif" width="408" height="318" />
@@ -36,7 +34,15 @@ Welcome to my Github Profile<br>
 <br>
 <br>
 <br>
+
 <br>
+📫 Feel free to reach out for collaborations, mentorship, or just a friendly chat!
+<br>
+<br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikołaj-radzikk-461841244/)
+[![Javascript badge](https://img.shields.io/badge/Email%20-%20gray?logo=gmail)](radzikowskicontatct@gmail.com)
+[![Javascript badge]([https://img.shields.io/badge/Email%20-%20gray?logo=gmail](https://img.shields.io/badge/Facebook%20-lightblue?logo=facebook))](https://www.facebook.com/profile.php?id=100026360949617)
+
 ### Languages and Tools:
 [![Javascript badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -45,3 +51,4 @@ Welcome to my Github Profile<br>
 [![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pl-pl/dotnet/csharp/)
 [![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://devdocs.io/cpp/)
 [![sq](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+

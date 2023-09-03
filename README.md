@@ -7,12 +7,11 @@ with ambition to become programmer 💻 <br>
 
 <img align="right" alt="GIF" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" width="408" height="318" />
  &nbsp;
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarekmadczak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
 

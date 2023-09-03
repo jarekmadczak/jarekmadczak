@@ -1,5 +1,4 @@
 ### HI There 👋<br>
-Welcome to my Github Profile<br>
 👋 Hello, I'm Mikołaj Radzikowski, a passionate student at Uniwersytet Rzeszowski on a mission to become a professional programmer. 🎓💻 <br>
 <br>
 🌟 About Me:

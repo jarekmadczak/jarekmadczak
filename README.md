@@ -1,9 +1,4 @@
 HI There 👋<br>
 Welcome to my Github Profile<br>
-Im Mikołaj Radzikowski
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
-</picture>
-
+I am Mikołaj Radzikowski and right now im student at ![pobrany plik](https://github.com/jarekmadczak/jarekmadczak/assets/82841077/8bf4e841-9824-4eaa-bcc6-b532afcdfa88)
+![coding-animated-laptop-flow-stream-ja04010rm5o68zfk](https://github.com/jarekmadczak/jarekmadczak/assets/82841077/ef1afa3a-2469-4079-9ac9-c0c441359ef2)

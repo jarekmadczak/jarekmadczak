@@ -18,12 +18,9 @@ Welcome to my Github Profile<br>
 🌐 Experienced in web development, mobile app development, Artificiall Inteligence development and more.<br>
 🔧 Always up for a coding challenge. <br>
 <br>
-
 <br>
 <img align="right" alt="GIF" src="https://cutewallpaper.org/26/bedroom-pixel-art-wallpaper/artstation-pixel-art-study-2-igor-flores.gif" width="408" height="318" />
  &nbsp;
-<br>
-
 <br>
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarekmadczak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

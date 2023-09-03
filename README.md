@@ -15,7 +15,7 @@ Welcome to my Github Profile<br>
 🔧 Always up for a coding challenge. <br>
 <br>
 
-<img align="right" alt="GIF" src="https://cutewallpaper.org/26/bedroom-pixel-art-wallpaper/artstation-pixel-art-study-2-igor-flores.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/7749b56a18ab6fcd58242d9339369c61df0bf20af8431b5d9a5a2d2b14e61f0a/68747470733a2f2f692e696d6775722e636f6d2f56707a644156512e676966" width="408" height="318" />
  &nbsp;
 <br>
 

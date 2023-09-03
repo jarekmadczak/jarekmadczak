@@ -7,7 +7,7 @@ with ambition to become programmer 💻 <br>
 <br>
  &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarekmadczak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" alt="GIF" src="[https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp)" width="408" height="318" />
+<img align="right" alt="GIF" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" width="408" height="318" />
 &nbsp;
 
 ### Languages and Tools:

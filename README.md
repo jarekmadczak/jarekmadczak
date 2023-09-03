@@ -2,23 +2,19 @@
 Welcome to my Github Profile<br>
 👋 Hello, I'm Mikołaj Radzikowski, a passionate student at Uniwersytet Rzeszowski on a mission to become a professional programmer. 🎓💻 <br>
 <br>
-
 🌟 About Me:
 <br>
-
 📚 Currently pursuing a degree in Computer Science at Uniwersytet Rzeszowski.<br>
 💡 Eager to learn and explore new technologies and programming languages.<br>
 💻 Aspiring to make a mark in the world of software development. <br>
 <br>
-
 🛠️ Tech Stack:
 <br>
-
 💡 Advanced in C# & C++ <br>
 🌐 Experienced in web development, mobile app development, Artificiall Inteligence development and more.<br>
 🔧 Always up for a coding challenge. <br>
 <br>
-<br>
+
 <img align="right" alt="GIF" src="https://cutewallpaper.org/26/bedroom-pixel-art-wallpaper/artstation-pixel-art-study-2-igor-flores.gif" width="408" height="318" />
  &nbsp;
 <br>

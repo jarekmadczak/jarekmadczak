@@ -7,9 +7,9 @@ with ambition to become programmer 💻 <br>
 <br>
  &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarekmadczak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="right" alt="GIF" src="[https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp)" width="408" height="318" />
 &nbsp;
-![coding-animated-laptop-flow-stream-ja04010rm5o68zfk](https://github.com/jarekmadczak/jarekmadczak/assets/82841077/ef1afa3a-2469-4079-9ac9-c0c441359ef2)
+
 ### Languages and Tools:
 [![Javascript badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)

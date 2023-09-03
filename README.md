@@ -27,7 +27,6 @@ Welcome to my Github Profile<br>
 &nbsp;
 <br>
 
-<br>
 📫 Feel free to reach out for collaborations, mentorship, or just a friendly chat!
 <br>
 <br> 

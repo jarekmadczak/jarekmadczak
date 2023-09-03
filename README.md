@@ -10,6 +10,15 @@ Welcome to my Github Profile<br>
 💡 Eager to learn and explore new technologies and programming languages.<br>
 💻 Aspiring to make a mark in the world of software development. <br>
 <br>
+<br>
+🛠️ Tech Stack:
+<br>
+<br>
+💡 Advanced in C# & C++ <br>
+🌐 Experienced in web development, mobile app development, Artificiall Inteligence development and more.<br>
+🔧 Always up for a coding challenge. <br>
+<br>
+
 
  [![Linkedin Badge](https://img.shields.io/badge/UR-blue)](https://www.ur.edu.pl/pl/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikołaj-radzikk-461841244/)

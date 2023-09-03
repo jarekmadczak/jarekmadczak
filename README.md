@@ -6,9 +6,9 @@ Welcome to my Github Profile<br>
 🌟 About Me:
 <br>
 <br>
-📚 Currently pursuing a degree in Computer Science at Uniwersytet Rzeszowski.
-💡 Eager to learn and explore new technologies and programming languages.
-💻 Aspiring to make a mark in the world of software development. 
+📚 Currently pursuing a degree in Computer Science at Uniwersytet Rzeszowski.<br>
+💡 Eager to learn and explore new technologies and programming languages.<br>
+💻 Aspiring to make a mark in the world of software development. <br>
 <br>
 
  [![Linkedin Badge](https://img.shields.io/badge/UR-blue)](https://www.ur.edu.pl/pl/)

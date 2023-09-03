@@ -26,7 +26,7 @@ Welcome to my Github Profile<br>
 📫 Feel free to reach out for collaborations, mentorship, or just a friendly chat!
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikołaj-radzikk-461841244/)
-[![Javascript badge](https://img.shields.io/badge/Email%20-%20gray?logo=gmail)](radzikowskicontatct@gmail.com)
+[![Javascript badge](https://img.shields.io/badge/Email%20-%20gray?logo=gmail)](mailto:radzikowskicontatct@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 [![Javascript badge](https://img.shields.io/badge/Facebook%20-lightblue?logo=facebook)](https://www.facebook.com/profile.php?id=100026360949617)
 <br>
 <br>

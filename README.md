@@ -42,7 +42,7 @@ Welcome to my Github Profile<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikołaj-radzikk-461841244/)
 [![Javascript badge](https://img.shields.io/badge/Email%20-%20gray?logo=gmail)](radzikowskicontatct@gmail.com)
-[![Javascript badge]([https://img.shields.io/badge/Email%20-%20gray?logo=gmail](https://img.shields.io/badge/Facebook%20-lightblue?logo=facebook))](https://www.facebook.com/profile.php?id=100026360949617)
+[![Javascript badge](https://img.shields.io/badge/Facebook%20-lightblue?logo=facebook)](https://www.facebook.com/profile.php?id=100026360949617)
 <br>
 <br>
 ### Languages and Tools:

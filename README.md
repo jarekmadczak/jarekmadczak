@@ -9,7 +9,7 @@ Hello, I'm Mikołaj Radzikowski, a passionate student at Uniwersity of Rzeszów 
 <br>
 🛠️ Tech Stack:
 <br>
-💡 Advanced in C# & C++ <br>
+💡 Advanced in js & react <br>
 🌐 Experienced in web development, mobile app development, Artificiall Inteligence development and more.<br>
 🔧 Always up for a coding challenge. <br>
 <br>
